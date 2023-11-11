@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aakash Mallik</h1>
-<h3 align="center">I am passionate about Machine Learning.</h3>
+<h3 align="center">I am passionate about Machine Learning, WebDev, Startups and Literature.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallikaakash&label=Profile%20views&color=0e75b6&style=flat" alt="mallikaakash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mallikaakash" alt="mallikaakash" /></a> </p>
 
-- 👯 I’m looking to collaborate on ** Machine Learning Research shared tasks **
+- 👯 I’m looking to collaborate on **Machine Learning Research shared tasks**
 - 🌱 I’m currently learning **Computer Vision and Natural Language Processing**
 - 🔭 I’m have worked on **Full Stack Web Developement**
 - 📫 How to reach me **aakashmallik7777@gmail.com**
