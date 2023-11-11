@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mallikaakash" alt="mallikaakash" /></a> </p>
 
-- 👯 I’m looking to collaborate on **M**
-
+- 👯 I’m looking to collaborate on ** Machine Learning Research shared tasks **
+- 🌱 I’m currently learning **Computer Vision and Natural Language Processing**
+- 🔭 I’m have worked on **Full Stack Web Developement**
 - 📫 How to reach me **aakashmallik7777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
