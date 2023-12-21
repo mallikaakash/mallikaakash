@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallikaakash&label=Profile%20views&color=0e75b6&style=flat" alt="mallikaakash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mallikaakash" alt="mallikaakash" /></a> </p>
-
+- 🔭 Currently a undergraduate research assistant at IIT Delhi under Dr. Tapan Gandhi and Dr.Shobha Sharma.
 - 👯 I’m looking to collaborate on **Machine Learning Research shared tasks**
 - 🌱 I’m currently learning **Computer Vision and Natural Language Processing**
-- 🔭 I’m have worked on **Full Stack Web Developement**
+- 🔭 I have worked on **Full Stack Web Developement**
 - 📫 How to reach me **aakashmallik7777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
