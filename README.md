@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash Mallik</h1>
-<h3 align="center">I am passionate about Machine Learning, WebDev, Startups, Astrophysics and Literature.</h3>
+<h3 align="center">I am passionate about Machine Learning, Startups, Astrophysics and Literature.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallikaakash&label=Profile%20views&color=0e75b6&style=flat" alt="mallikaakash" /> </p>
 
