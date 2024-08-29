@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aakash Mallik</h1>
-<h3 align="center">I am passionate about Machine Learning, WebDev, Startups and Literature.</h3>
+<h3 align="center">I am passionate about Machine Learning, WebDev, Startups, Astrophysics and Literature.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallikaakash&label=Profile%20views&color=0e75b6&style=flat" alt="mallikaakash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mallikaakash" alt="mallikaakash" /></a> </p>
 
-- 👯 Currently a undergraduate research assistant at IIT Delhi under Dr. Tapan Gandhi and Dr.Shobha Sharma.
-- 🌱 I’m currently learning **Computer Vision and Natural Language Processing**
-- 🔭 I have worked on **Full Stack Web Developement**
-- 📫 How to reach me **aakashmallik7777@gmail.com**
+- ⚡ Currently a final year EEE undergraduate at NIT Karnataka, Surathkal and a research intern at IISC working on optimization of eVTOL aerodynamics.
+- 🌱 I have previously been an sde intern at Wells Fargo and research assistant at IIT Delhi.
+- 🤔 Right now I am studying a bit of neuromorphic computing and web3.
+- 🔭 Long term research interests include- optimizing eficiency of AI models and algos and AI hardware.
+- 📫 Reach out to be @**aakashmallik7777@gmail.com** or dm me on LinkedIn or X. I love collaborating for research papers, challenges, hackathons or projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
