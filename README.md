@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mallikaakash" alt="mallikaakash" /></a> </p>
 
-- ⚡ Currently a final year EEE undergraduate at NIT Karnataka, Surathkal and a research intern at IISC working on optimization of eVTOL aerodynamics.
-- 🌱 I have previously been an sde intern at Wells Fargo and research assistant at IIT Delhi.
+- ⚡ Hi there, am Aakash- a 2025 batch EEE graduate from National Institute of Technology, Surathakal, Karnataka. Currenty I am working as an AI consultant and being perpetual learner.
+- 🌱 I have previously been an sde intern at Wells Fargo, AI engineer and researcher at Neosapien, OnTheRecord Technology, and a research intern at IIT Delhi.
 - 🤔 Right now I am studying a bit of neuromorphic computing and web3.
 - 🔭 Long term research interests include- optimizing eficiency of AI models and algos and AI hardware.
 - 📫 Reach out to be @**aakashmallik7777@gmail.com** or dm me on LinkedIn or X. I love collaborating for research papers, challenges, hackathons or projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aakashmallik9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakashmallik9" height="30" width="40" /></a>
+<a href="https://twitter.com/malliktwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakashmallik9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aakash-mallik-82b99423b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-mallik-82b99423b" height="30" width="40" /></a>
 <a href="https://instagram.com/aakash._.mallik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash._.mallik" height="30" width="40" /></a>
 </p>
