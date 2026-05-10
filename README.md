@@ -1,10 +1,6 @@
 <h1 align="center">Aakash Mallik</h1>
 <h3 align="center"> From Research to Real Systems</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mallikaakash&label=Profile%20views&color=0e75b6&style=flat" alt="mallikaakash" />
-</p>
-
 ---
 
 - EEE @ NIT Surathkal (2025)  
