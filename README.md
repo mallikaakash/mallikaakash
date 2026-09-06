@@ -1,7 +1,7 @@
-Generalist engineer whose current interest is piqued by ML engineering,  LLM training, evaluation, and low-latency serving.
-Currently building software and automating workflows at Wells Fargo.
-Previously worked at Neosapien and freelanced at Attenomics Labs, Kirloskar Ferrous Industries Ltd. (Setconnect) and as an IC.
-NITK '25 EEE.
+- Generalist engineer whose current interest is piqued by ML engineering, LLM training, evaluation, and low-latency serving.
+- Currently building software and automating workflows at Wells Fargo.
+- Previously worked at Neosapien and freelanced at Attenomics Labs, Kirloskar Ferrous Industries Ltd. (Setconnect) and as an IC.
+- NITK '25 EEE.
 
 ---
 
