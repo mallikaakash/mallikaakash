@@ -19,7 +19,7 @@
 
 ### Selected work
 
-**[genrec](https://github.com/mallikaakash/genrec)**
+**[Genrec](https://github.com/mallikaakash/genrec)**
 Reproduction of Netflix's LLM-native recommender. Qwen2.5-0.5B, two-phase training, catalog-aware ranking head over learned item embeddings.
 Audited against the published design: four Phase-2 objective divergences and a context-truncation bug silently discarding over half of every prompt. MRR 0.218 to 0.275 at an unchanged training budget. An 8-arm ablation to attribute the gain, which reproduced two of the paper's claims and disproved three of my own. Served prefill-only at 23ms warm.
 Item-kNN and S3-Rec still beat it. Sampled-negative protocol favours neighbourhood methods, and it trained on 46% of the data for 2 epochs. Details in the README.
