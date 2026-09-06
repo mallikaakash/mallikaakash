@@ -24,14 +24,26 @@ Reproduction of Netflix's LLM-native recommender. Qwen2.5-0.5B, two-phase traini
 Audited against the published design: four Phase-2 objective divergences and a context-truncation bug silently discarding over half of every prompt. MRR 0.218 to 0.275 at an unchanged training budget. An 8-arm ablation to attribute the gain, which reproduced two of the paper's claims and disproved three of my own. Served prefill-only at 23ms warm.
 Item-kNN and S3-Rec still beat it. Sampled-negative protocol favours neighbourhood methods, and it trained on 46% of the data for 2 epochs. Details in the README.
 
-**[nanovllm-cpu](LINK) [WIP]**
+**[nanovllm-cpu](https://github.com/mallikaakash/mini-vllm) [WIP]**
 CPU inference engine written from primitives. Paged KV cache, prefix caching, n-gram speculative decoding, async OpenAI-compatible server. Benchmarked under open-loop Poisson load with DuckDB-backed analysis.
 
-**[WalGraph](LINK)**
+**[Research RLM](https://github.com/mallikaakash/research-rlm)**
+A clean, minimal, largely general use Recursive Language Model (RLM) engine, built from scratch. Although mostly tested, using a thin harness layer around the engine, on whether it can decompose and explain arxiv papers.
+
+**[Resse](https://github.com/mallikaakash/rss-telegram-tracker)**
+This is a RSS feed tracker and also an independent niche blog discovery repo. The tracked blogs are in the feeds.yml file. It sends the best picked blogs to my Telegram bot - Resse.
+
+**[Distil-lab](https://github.com/mallikaakash/deep-dive-into-distillation)**
+Hand-written experiments across the distillation stack: hard/soft targets, off-policy vs on-policy, and the divergences in between. Built to be read and modified, not deployed. Student SmolLM2-135M, teacher SmolLM2-1.7B-Instruct. Same family on purpose: they share a tokenizer, so per-token KL is a direct tensor comparison and there is no cross-tokenizer alignment code anywhere in this repo.
+
+**[WalGraph](https://github.com/mallikaakash/SuiOverflow2025)**
 Decentralised graph database on Sui. Global runner-up, Programmable Storage track, SUI Overflow 2025.
 
 **[Katha.Ai](https://github.com/mallikaakash/Katha.Ai)**
 Iterative context engine for long-form generation, holding character consistency and storyline across a 107-page novel. 1st runner-up of 100+ teams, KukuFM National Project K.
+
+**[Khet Sarathi](https://github.com/mallikaakash/Khet-Sarathi)**
+Khet Sarathi is an Intelligent WhatsApp-based Audio and Voice Agentic farming assistant that helps Indian farmers with crop advisory, weather & government schemes updates, OCR analysis of Mandi receipts and legal documents, fertiliser and chemicals component analysis in 11 plus Indic languages - powered by Sarvam AI and Gemini API
 
 **[TGBH-StackedPitha](https://github.com/mallikaakash/TGBH-StackedPitha)**
 Masked autoencoder demand prediction with a rubric-based dynamic pricing system. Top 5 in track, The Great Bangalore Hackathon 2025.
