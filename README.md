@@ -33,7 +33,7 @@ A clean, minimal, largely general use Recursive Language Model (RLM) engine, bui
 **[Resse](https://github.com/mallikaakash/rss-telegram-tracker)**
 This is a RSS feed tracker and also an independent niche blog discovery repo. The tracked blogs are in the feeds.yml file. It sends the best picked blogs to my Telegram bot - Resse.
 
-**[Distil-lab](https://github.com/mallikaakash/deep-dive-into-distillation)**
+**[Distil-lab](https://github.com/mallikaakash/deep-dive-into-distillation) [WIP]**
 Hand-written experiments across the distillation stack: hard/soft targets, off-policy vs on-policy, and the divergences in between. Built to be read and modified, not deployed. Student SmolLM2-135M, teacher SmolLM2-1.7B-Instruct. Same family on purpose: they share a tokenizer, so per-token KL is a direct tensor comparison and there is no cross-tokenizer alignment code anywhere in this repo.
 
 **[WalGraph](https://github.com/mallikaakash/SuiOverflow2025)**
